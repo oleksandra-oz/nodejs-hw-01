@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "bdf4fb13-8eef-46fb-ab30-8faec0008724",
+    "name": "Merle Sanford",
+    "phone": "369-239-0729 x2111",
+    "email": "Andrew70@yahoo.com",
+    "job": "Principal Configuration Technician"
+  },
+  {
+    "id": "8cdda93b-e836-4562-8c52-93c4cebad241",
+    "name": "Doyle O'Kon",
+    "phone": "691.616.1646",
+    "email": "Carson.Pagac@gmail.com",
+    "job": "Regional Solutions Supervisor"
+  },
+  {
+    "id": "e0f27780-5e0b-40cb-9896-2c51a74a4390",
+    "name": "Blanca Treutel",
+    "phone": "1-947-628-9675 x74512",
+    "email": "Liana_Howell49@yahoo.com",
+    "job": "District Solutions Designer"
+  },
+  {
+    "id": "c6393651-13c2-400c-b8a6-1dbda9ae9d9c",
+    "name": "Evelyn McCullough IV",
+    "phone": "495.397.7888 x754",
+    "email": "Stephen42@yahoo.com",
+    "job": "National Division Agent"
+  }
+]
